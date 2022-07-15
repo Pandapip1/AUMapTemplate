@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 157011693
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d7ae64584908856d9807ef21a6a53ba8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/sound1.wav
+Dependencies: []

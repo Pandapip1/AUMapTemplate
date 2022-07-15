@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 3541807265
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: squid_game
+      Dependencies: {}
+    Info_1:
+      Name: map
+      Dependencies: {}

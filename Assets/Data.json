@@ -1,0 +1,50 @@
+{
+	"Name": "Museum",
+	"Rooms": {
+		"Gallery": {
+			"ObjectName": "GalleryRoom",
+			"Vents": [
+				{
+					"Name": "EmeraldVent1",
+					"ObjectName": "EmeraldVent1",
+					"Type": "Polus"
+				},
+				{
+					"Name": "EmeraldVent2",
+					"ObjectName": "EmeraldVent2",
+					"Type": "Skeld"
+				}
+			],
+			"Cams": [
+				{
+					"Name": "Gallery",
+					"ObjectName": "Cam",
+					"Type": "Polus",
+					"Offset": {
+						"x": 1.2,
+						"y": -1.8
+					},
+					"Flip": false
+				}
+			],
+			"Ladders": [
+				{
+					"Name": "JustATest",
+					"ObjectName": "Ladder",
+					"Short": true
+				},
+				{
+					"Name": "JustAnotherTest",
+					"ObjectName": "Ladder (1)",
+					"Short": false
+				}
+			]
+		},
+		"Security-Hallway": {
+			"ObjectName": "SecurityHallway"
+		},
+		"Security" : {
+			"ObjectName": "SecurityRoom"
+		}
+	}
+}
